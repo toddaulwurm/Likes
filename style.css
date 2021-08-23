@@ -1,0 +1,45 @@
+#network {
+    background-color: midnightblue;
+    color: white;
+}
+#yfeed {
+    padding-left: 40vw;
+    border: 2px solid midnightblue;
+}
+
+#page {
+    display: flex
+}
+#profile {
+    border: 2px solid midnightblue;
+    flex: 1;
+    height: 400px;
+}
+#profile img{
+    height: 80px;
+}
+
+#feed {
+    border: 2px solid midnightblue;
+}
+.post {
+    border: 2px solid midnightblue;
+}
+.top {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+button {
+    height: 20px;
+    margin: 20px;
+}
+.content {
+    padding: 15px;
+}
+
+#likeBox {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
